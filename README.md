@@ -26,6 +26,6 @@ Getting Started
 4. Build and run the sample.
 
 ![alt text](https://github.com/revaile/Sports-Unit4/blob/master/Cuplikan%20layar%202024-10-28%20174443.png?raw=true)
-![alt text](https://github.com/revaile/Sports-Unit4/blob/master/Cuplikan%20layar%202024-10-28%20174443.png?raw=true)
+![alt text](https://github.com/revaile/Sports-Unit4/blob/master/Cuplikan%20layar%202024-10-28%20174452.png?raw=true)
 
 
